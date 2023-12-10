@@ -1,0 +1,22 @@
+C:\Users\busin\source\repos\Project Prototyping\Project Prototyping\bin\Debug\Project Prototyping.exe.config
+C:\Users\busin\source\repos\Project Prototyping\Project Prototyping\bin\Debug\Project Prototyping.exe
+C:\Users\busin\source\repos\Project Prototyping\Project Prototyping\bin\Debug\Project Prototyping.pdb
+C:\Users\busin\source\repos\Project Prototyping\Project Prototyping\obj\Debug\Project Prototyping.csproj.AssemblyReference.cache
+C:\Users\busin\source\repos\Project Prototyping\Project Prototyping\obj\Debug\Project Prototyping.csproj.SuggestedBindingRedirects.cache
+C:\Users\busin\source\repos\Project Prototyping\Project Prototyping\obj\Debug\Project_Prototyping.Form1.resources
+C:\Users\busin\source\repos\Project Prototyping\Project Prototyping\obj\Debug\Project_Prototyping.Properties.Resources.resources
+C:\Users\busin\source\repos\Project Prototyping\Project Prototyping\obj\Debug\Project Prototyping.csproj.GenerateResource.cache
+C:\Users\busin\source\repos\Project Prototyping\Project Prototyping\obj\Debug\Project Prototyping.csproj.CoreCompileInputs.cache
+C:\Users\busin\source\repos\Project Prototyping\Project Prototyping\obj\Debug\Project Prototyping.exe
+C:\Users\busin\source\repos\Project Prototyping\Project Prototyping\obj\Debug\Project Prototyping.pdb
+C:\Users\busin\source\repos\TERM 2 Projects\Project Prototyping\Project Prototyping\bin\Debug\Project Prototyping.exe.config
+C:\Users\busin\source\repos\TERM 2 Projects\Project Prototyping\Project Prototyping\bin\Debug\Project Prototyping.exe
+C:\Users\busin\source\repos\TERM 2 Projects\Project Prototyping\Project Prototyping\bin\Debug\Project Prototyping.pdb
+C:\Users\busin\source\repos\TERM 2 Projects\Project Prototyping\Project Prototyping\obj\Debug\Project Prototyping.csproj.AssemblyReference.cache
+C:\Users\busin\source\repos\TERM 2 Projects\Project Prototyping\Project Prototyping\obj\Debug\Project Prototyping.csproj.SuggestedBindingRedirects.cache
+C:\Users\busin\source\repos\TERM 2 Projects\Project Prototyping\Project Prototyping\obj\Debug\Project_Prototyping.Form1.resources
+C:\Users\busin\source\repos\TERM 2 Projects\Project Prototyping\Project Prototyping\obj\Debug\Project_Prototyping.Properties.Resources.resources
+C:\Users\busin\source\repos\TERM 2 Projects\Project Prototyping\Project Prototyping\obj\Debug\Project Prototyping.csproj.GenerateResource.cache
+C:\Users\busin\source\repos\TERM 2 Projects\Project Prototyping\Project Prototyping\obj\Debug\Project Prototyping.csproj.CoreCompileInputs.cache
+C:\Users\busin\source\repos\TERM 2 Projects\Project Prototyping\Project Prototyping\obj\Debug\Project Prototyping.exe
+C:\Users\busin\source\repos\TERM 2 Projects\Project Prototyping\Project Prototyping\obj\Debug\Project Prototyping.pdb
